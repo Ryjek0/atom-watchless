@@ -1,7 +1,7 @@
 {
   "name": "atom-watchless",
   "main": "./lib/main",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Compile less file when it's modify",
   "keywords": [
     "less",
@@ -19,6 +19,6 @@
     "gulp": "~3.9.1",
     "gulp-less": "^3.3.2",
     "gulp-sourcemaps": "^2.6.0",
-    "gulp-cssmin": "^0.2.0"    
+    "gulp-cssmin": "^0.2.0"
   }
 }
