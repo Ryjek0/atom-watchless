@@ -1,12 +1,12 @@
 {
-  "name": "watchless",
+  "name": "atom-watchless",
   "main": "./lib/main",
   "version": "0.0.1",
   "description": "Compile less file when it's modify",
   "keywords": [
     "less","to","css","watch","on change"
   ],
-  "repository": "https://github.com/atom/watchless",
+  "repository": "https://github.com/Ryjek0/atom-watchless",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
