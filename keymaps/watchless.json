@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-cmd-l": "watchless:startGulpWatch"
+    "ctrl-cmd-l": "atom-watchless:startGulpWatch"
   }
 }

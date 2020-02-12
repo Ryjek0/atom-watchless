@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Start watchless",
-        "command": "watchless:startGulp"
+        "command": "atom-watchless:startGulp"
       }
     ]
   },
@@ -16,11 +16,11 @@
           "submenu": [
             {
               "label": "Start",
-              "command": "watchless:startGulpWatch"
+              "command": "atom-watchless:startGulpWatch"
             },
             {
               "label": "Regenerate all files",
-              "command": "watchless:generateAllLess"
+              "command": "atom-watchless:generateAllLess"
             }
           ]
         }
