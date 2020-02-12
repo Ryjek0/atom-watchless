@@ -19,7 +19,6 @@
     "gulp": "~3.9.1",
     "gulp-less": "^3.3.2",
     "gulp-sourcemaps": "^2.6.0",
-    "gulp-cssmin": "^0.2.0",
-    
+    "gulp-cssmin": "^0.2.0"    
   }
 }
