@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Start watchless",
+        "command": "watchless:startGulp"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Watch less files",
+          "submenu": [
+            {
+              "label": "Start",
+              "command": "watchless:startGulpWatch"
+            },
+            {
+              "label": "Regenerate all files",
+              "command": "watchless:generateAllLess"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
